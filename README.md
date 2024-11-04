@@ -89,3 +89,114 @@ to mitigate high turnover.**
 
 **This data-driven approach to understanding and managing employee attrition will help the company retain key 
 talent, foster a positive work environment, and support long-term growth.**
+
+## DATA DESCRIPTION
+**Data Description for Human Resources Details**
+
+**This dataset contains employee data that is essential for analyzing attrition trends within the company. 
+Each record provides information on an employee's demographics, employment history, job characteristics, 
+and compensation, allowing us to explore the factors contributing to attrition.**
+
+## Key Data Attributes
+
+1. **Total Number of Attrition Count:**
+
+**Description: Total count of employees who have left the company within a specified period**.
+
+**Purpose: Helps calculate attrition rate and understand turnover trends.**
+
+
+
+2. **Current Employment:**
+
+**Description: Count of employees who are currently active in the company.**
+
+**Purpose: Provides a measure of the existing workforce for comparison with attrition data.**
+
+
+
+3. **Employee Count**:
+
+**Description: The number of records in the dataset, which represents the total number of employees (active and departed).**
+
+**Purpose: Establishes the size of the dataset and serves as a baseline for calculating attrition metrics.**
+
+
+
+4. **Age Range:**
+
+**Description: The minimum and maximum age of employees in the dataset.**
+
+**Purpose: Helps identify any age-related trends in attrition.**
+
+
+
+5. **Attrition Rate:**
+
+**Description: The percentage of employees who have left the company in a given period.**
+
+
+6. **Total Number of Employees:*8
+
+**Description: The sum of current employees and those who have left the company.**
+
+**Purpose: Helps in calculating attrition rate and analyzing the overall workforce.**
+
+
+
+7. **Department:**
+
+**Description: The department where the employee works (e.g., Marketing,Medical,Lab Scientist, HR).**
+
+**Purpose: Assists in identifying attrition trends across departments.**
+
+
+
+8. **Job Role:****
+
+**Description: Specific job titles held by employees88 **
+
+9. **Marital Status:**
+
+**Description: The marital status of employees (e.g., Single, Married, Divorced).**
+
+**Purpose: Explores whether marital status has an impact on attrition trends.**
+
+10. **Overtime:**
+
+**Description: Indicates if the employee works overtime (Yes/No).**
+
+**Purpose: Examines if overtime contributes to attrition.**
+
+11.** Educational Qualification:**
+
+**Description: The highest level of education achieved by the employee (e.g., HND, Bachelor’s, Master’s).**
+
+Purpose: Assesses the influence of education level on attrition.
+
+12. **Hourly Rate:**
+
+**Description: The hourly wage rate for each employee.**
+
+**Purpose: Provides insight into compensation and its relation to attrition.**
+
+13. **Monthly Income:**
+
+**Description: The total monthly earnings of each employee**.
+
+**Purpose: Helps analyze how income levels impact attrition.**
+
+14. **Performance Rating:**
+
+**Description: A rating that indicates the employee's performance level (e.g., 1 to 5 scale)**.
+
+**Purpose: Assesses if there is a correlation between performance and attrition.**
+
+15. **Marital Status : Shows the details of staff that are married and not yet married*
+
+
+#### Additional Notes
+
+**This dataset, with its rich mix of demographic, job-related, and compensation data, is structured to facilitate detailed analysis of the 
+factors driving attrition. It enables the development of predictive models to forecast attrition and provides insights to 
+support HR strategies aimed at improving employee retention**.
