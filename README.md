@@ -48,13 +48,15 @@ to mitigate high turnover.**
 2. **Data Preprocessing: This involves cleaning the data to address inconsistencies, missing values, and outliers that could skew the analysis.**
 
 
-3. **Exploratory Data Analysis (EDA): EDA will uncover trends and patterns in the dataset. Visualization tools, such as bar charts, histograms, and scatter plots, will help us understand correlations between attrition and various factors.8*
+3. **Exploratory Data Analysis (EDA): EDA will uncover trends and patterns in the dataset. Visualization tools, such as bar charts,
+4. histograms, and scatter plots, will help us understand correlations between attrition and various factors.**
 
 
-4. **Predictive Modeling: Using machine learning algorithms, such as logistic regression, decision trees, and random forests, we will build models to predict the likelihood of an employee leaving.**
+5. **Predictive Modeling: Using machine learning algorithms, such as logistic regression, decision trees, and random forests,
+6.  we will build models to predict the likelihood of an employee leaving.**
 
 
-5. **Validation and Testing: We’ll split the dataset into training and test sets to validate model accuracy and ensure reliable predictions.**
+7. **Validation and Testing: We’ll split the dataset into training and test sets to validate model accuracy and ensure reliable predictions.**
 
 
 
@@ -66,9 +68,10 @@ to mitigate high turnover.**
 
 **Employee Segments at Risk: Identifying high-risk groups based on demographics, job roles, or tenure.**
 
-* Attrition Rate Forecast: **A projection of future attrition rates if current trends continue.*8
+* Attrition Rate Forecast: **A projection of future attrition rates if current trends continue.**
 
-* Recommendations: **Strategies for HR to improve employee retention, such as policy changes, enhanced training programs, and better compensation packages.*8
+* Recommendations: **Strategies for HR to improve employee retention, such as policy changes, enhanced**
+** training programs, and better compensation packages.**
 
 
 ## Benefits of Analysis
@@ -81,7 +84,7 @@ to mitigate high turnover.**
 
 * Cost Savings: **Lower recruitment, hiring, and training costs by retaining more employees.**
 
-8 Strategic Planning: **Use attrition forecasts to plan workforce needs and ensure business continuity.**
+ Strategic Planning: **Use attrition forecasts to plan workforce needs and ensure business continuity.**
 
 
 **This data-driven approach to understanding and managing employee attrition will help the company retain key 
