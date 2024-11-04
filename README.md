@@ -200,3 +200,8 @@ Purpose: Assesses the influence of education level on attrition.
 **This dataset, with its rich mix of demographic, job-related, and compensation data, is structured to facilitate detailed analysis of the 
 factors driving attrition. It enables the development of predictive models to forecast attrition and provides insights to 
 support HR strategies aimed at improving employee retention**.
+
+
+# HR DASHBOARD #
+
+![image](https://github.com/user-attachments/assets/ac717ee6-02d2-41fa-aa50-991ec15a4f82)
