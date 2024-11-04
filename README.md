@@ -25,7 +25,7 @@ issues within an organization, such as employee dissatisfaction, lack of career 
 Understanding and addressing the factors driving attrition can help a company retain its talent, reduce recruitment and training costs, 
 and maintain a productive workforce.**
 
-## OBJECTIVE ##
+## OBJECTIVE 
 
 **The purpose of this data analysis report is to project employee attrition by examining patterns and trends within the company's workforce data. 
 Through this analysis, we aim to identify factors contributing to attrition, predict future attrition rates, and suggest actionable recommendations 
@@ -33,11 +33,11 @@ to mitigate high turnover.**
 
 **The analysis involves reviewing historical employee data, such as:**
 
-* Demographics: **Age, gender, marital status,  etc.**
+* **Demographics: Age, gender, marital status,  etc.**
 
-* Employment Factors: **Department, tenure, salary, job satisfaction, performance ratings, and career growth opportunities.**
+* **Employment Factors: **Department, tenure, salary, job satisfaction, performance ratings, and career growth opportunities.**
 
-* Exit Interviews and Surveys: **Insights into reasons for leaving, feedback on company culture, and employee engagement.**
+* **Exit Interviews and Surveys: **Insights into reasons for leaving, feedback on company culture, and employee engagement.**
 
 
 ## METHOODLOGY
@@ -48,11 +48,11 @@ to mitigate high turnover.**
 2. **Data Preprocessing: This involves cleaning the data to address inconsistencies, missing values, and outliers that could skew the analysis.**
 
 
-3. **Exploratory Data Analysis (EDA): EDA will uncover trends and patterns in the dataset. Visualization tools, such as bar charts,
+3. * **Exploratory Data Analysis (EDA): EDA will uncover trends and patterns in the dataset. Visualization tools, such as bar charts,
 4. histograms, and scatter plots, will help us understand correlations between attrition and various factors.**
 
 
-5. **Predictive Modeling: Using machine learning algorithms, such as logistic regression, decision trees, and random forests,
+5. * **Predictive Modeling: Using machine learning algorithms, such as logistic regression, decision trees, and random forests,
 6.  we will build models to predict the likelihood of an employee leaving.**
 
 
@@ -64,25 +64,25 @@ to mitigate high turnover.**
 
 **The report will deliver insights on:**
 
-** Attrition Drivers: Factors like low job satisfaction, long working hours, poor management, or limited growth opportunities.
+* **Attrition Drivers: Factors like low job satisfaction, long working hours, poor management, or limited growth opportunities.
 
 **Employee Segments at Risk: Identifying high-risk groups based on demographics, job roles, or tenure.**
 
 * Attrition Rate Forecast: **A projection of future attrition rates if current trends continue.**
 
-* Recommendations: **Strategies for HR to improve employee retention, such as policy changes, enhanced**
+* **Recommendations: **Strategies for HR to improve employee retention, such as policy changes, enhanced**
 ** training programs, and better compensation packages.**
 
 
 ## Benefits of Analysis
 
-**With a clear understanding of attrition patterns, the company can:**
+* **With a clear understanding of attrition patterns, the company can:**
 
-* Optimize Talent Management: **Proactively address factors leading to turnover.**
+* **Optimize Talent Management: Proactively address factors leading to turnover.**
 
-* Enhance Employee Engagement: **Develop initiatives that improve job satisfaction and employee loyalty.**
+* **Enhance Employee Engagement: **Develop initiatives that improve job satisfaction and employee loyalty.**
 
-* Cost Savings: **Lower recruitment, hiring, and training costs by retaining more employees.**
+* C**ost Savings: Lower recruitment, hiring, and training costs by retaining more employees.**
 
  Strategic Planning: **Use attrition forecasts to plan workforce needs and ensure business continuity.**
 
