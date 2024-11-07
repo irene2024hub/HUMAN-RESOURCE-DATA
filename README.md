@@ -18,7 +18,7 @@ opportunities. The project will also provide actionable recommendations to help 
 optimize talent management. Ultimately, this analysis aims to equip the company with data-driven insights to foster a stable, engaged, 
 and productive workforce.**
 
-## INTRODUCTION ##
+## INTRODUCTION 
 
 **Employee attrition, or the rate at which employees leave a company, is a critical metric for businesses. High attrition rates can signal 
 issues within an organization, such as employee dissatisfaction, lack of career growth opportunities, or inadequate compensation. 
@@ -48,12 +48,14 @@ to mitigate high turnover.**
 2. **Data Preprocessing: This involves cleaning the data to address inconsistencies, missing values, and outliers that could skew the analysis.**
 
 
-3. * **Exploratory Data Analysis (EDA): EDA will uncover trends and patterns in the dataset. Visualization tools, such as bar charts,
-4. histograms, and scatter plots, will help us understand correlations between attrition and various factors.**
+3.  **Exploratory Data Analysis (EDA): EDA will uncover trends and patterns in the dataset. Visualization tools, such as bar charts,**
+     
+4. **histograms, and scatter plots, will help us understand correlations between attrition and various factors.**
 
 
-5. * **Predictive Modeling: Using machine learning algorithms, such as logistic regression, decision trees, and random forests,
-6.  we will build models to predict the likelihood of an employee leaving.**
+5.  **Predictive Modeling: Using machine learning algorithms, such as logistic regression, decision trees, and random forests,**
+    
+6.  **We will build models to predict the likelihood of an employee leaving.**
 
 
 7. **Validation and Testing: We’ll split the dataset into training and test sets to validate model accuracy and ensure reliable predictions.**
