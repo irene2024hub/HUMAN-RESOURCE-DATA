@@ -204,10 +204,11 @@ factors driving attrition. It enables the development of predictive models to fo
 support HR strategies aimed at improving employee retention**.
 
 
-# HR DASHBOARD #
+## HR DASHBOARD 
+
+![image](https://github.com/user-attachments/assets/7e0a49f4-ad8a-4ccd-89e9-7c9504e21988)
 
 
-![image](https://github.com/user-attachments/assets/ebfe36a5-9494-4915-99b5-84c8b5fea9ad)
 
 
 **In analyzing the HR data for the Incubator Hub, we can derive insights and recommendations based on the attrition rate 
@@ -226,9 +227,9 @@ and other related metrics. Here’s a structured breakdown of the insights and r
 * **Average Age of Current Employees: 37 years**
 
 
-Insights
+## INSIGHT
 
-1. Attrition Rate:
+1. **ATTRITION RATE**:
 
 **An attrition rate of 16.2% is significant, indicating that over one in six employees leaves the organization within a year.
 This is higher than the average turnover rate across industries, which is typically around 10-15%. High attrition can lead 
@@ -236,21 +237,21 @@ to increased recruitment and training costs, and it may affect team morale and p
 
 
 
-2. **Current Employee Demographics:**
+2. **CURRENT EMPLOYEE DEMOGRAPHICS:**
 
 **The average age of current employees is 37, which may suggest a workforce that is relatively experienced. However, it may also 
 imply potential future attrition as older employees approach retirement age. Understanding the distribution of age within the 
 workforce can be critical for succession planning.***
 
 
-3. **Impact on Team Dynamics:**
+3. **IMPACT ON TEAMS DYNAMICS:**
 
 **With a considerable number of employees leaving, there could be disruptions in team dynamics, knowledge transfer, and project
 continuity. High turnover may lead to increased workloads for remaining staff, which can further contribute to attrition.**
 
 
 
-4. **Root Causes of Attrition:**
+4. ** ROOT CAUSES OF ATTRITION**R
 
 **It is essential to investigate the reasons behind the 237 departures. Factors may include job satisfaction, work-life balance, 
 career advancement opportunities, compensation, and workplace culture.**
@@ -261,7 +262,7 @@ career advancement opportunities, compensation, and workplace culture.**
 
 For analyzing attrition by age and gender, I'll break down some insights and recommendations based on the data provided in the above table;
 
-### insights
+### INSIGHTS
 
 * . **HIGHER ATTRITION IN THE 25-34 AGE GROUP**
 
@@ -284,6 +285,16 @@ stability, or fewer job market options for older employees**.
 movement or external factors affecting male employees’ career choices**.
 
 **Females have relatively stable attrition rates across age groups, though they peak in the 25-34 group as well**.
+
+## JOB SATISFACTION RATING BY JOB ROLES OVERVIEW
+
+![image](https://github.com/user-attachments/assets/67a208cd-99fe-4f73-b098-7d69a1944c14)
+
+
+![image](https://github.com/user-attachments/assets/65b5ce0d-7e21-4354-b30b-89506e27de80)
+
+
+![image](https://github.com/user-attachments/assets/d9584ac0-bd32-4857-abbe-de3af50b25eb)
 
 
 
