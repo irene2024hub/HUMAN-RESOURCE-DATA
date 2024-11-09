@@ -62,18 +62,18 @@ to mitigate high turnover.**
 
 
 
-# #EXPECTED OUTCOME
+## EXPECTED OUTCOME
 
 **The report will deliver insights on:**
 
-* **Attrition Drivers: Factors like low job satisfaction, long working hours, poor management, or limited growth opportunities.
+* **Attrition Drivers: Factors like low job satisfaction, long working hours, poor management, or limited growth opportunities**.
 
 **Employee Segments at Risk: Identifying high-risk groups based on demographics, job roles, or tenure.**
 
-* Attrition Rate Forecast: **A projection of future attrition rates if current trends continue.**
+* Attrition Rate Forecast: A projection of future attrition rates if current trends continue.**
 
-* **Recommendations: **Strategies for HR to improve employee retention, such as policy changes, enhanced**
-** training programs, and better compensation packages.**
+* **Recommendations: Strategies for HR to improve employee retention, such as policy changes, enhanced**
+**training programs, and better compensation packages.**
 
 
 ## Benefits of Analysis
@@ -194,7 +194,7 @@ Purpose: Assesses the influence of education level on attrition.
 
 **Purpose: Assesses if there is a correlation between performance and attrition.**
 
-15. **Marital Status : Shows the details of staff that are married and not yet married*
+15. **Marital Status : Shows the details of staff that are married and not yet married**
 
 
 #### Additional Notes
@@ -206,23 +206,24 @@ support HR strategies aimed at improving employee retention**.
 
 # HR DASHBOARD #
 
-![image](https://github.com/user-attachments/assets/ac717ee6-02d2-41fa-aa50-991ec15a4f82)
+
+![image](https://github.com/user-attachments/assets/ebfe36a5-9494-4915-99b5-84c8b5fea9ad)
 
 
 **In analyzing the HR data for the Incubator Hub, we can derive insights and recommendations based on the attrition rate 
 and other related metrics. Here’s a structured breakdown of the insights and recommendations from the provided data:**
 
-Data Summary
+## HUMAN RESOURCE DATA ANALYSIS SUMMARY
 
-Total Employees: 1,470
+* **Total Employees: 1,470**
 
-Current Employees: 1,233
+* **Current Employees: 1,233**
 
-Total Attrition: 237
+* **Total Attrition: 237**
 
-Attrition Rate: 16.2%
+* **Attrition Rate: 16.2%**
 
-Average Age of Current Employees: 37 years
+* **Average Age of Current Employees: 37 years**
 
 
 Insights
@@ -253,6 +254,74 @@ continuity. High turnover may lead to increased workloads for remaining staff, w
 
 **It is essential to investigate the reasons behind the 237 departures. Factors may include job satisfaction, work-life balance, 
 career advancement opportunities, compensation, and workplace culture.**
+
+## INSIGHT BASED ON THE ATTRITION CF AGE BAND BY GENDER
+
+![image](https://github.com/user-attachments/assets/7d5c1958-b506-4ba2-a74d-8d7505b2fa2d)
+
+For analyzing attrition by age and gender, I'll break down some insights and recommendations based on the data provided in the above table;
+
+### insights
+
+* . **HIGHER ATTRITION IN THE 25-34 AGE GROUP**
+
+**This group shows the highest attrition for both males and females (43 females and 69 males) amounting to 47% of total attrition. This could indicate a 
+trend where employees in this age range are likely seeking new opportunities, either for career advancement, higher compensation, or work-life balance**.
+
+**Individuals in this age range are often early to mid-career, where career progression and growth are essential**.
+
+* **LOWER ATTRITION IN OLDER AGE GROUPS** 
+
+**Attrition decreases significantly after age 35, with the lowest levels seen in employees over 55. This could reflect a greater level of job satisfaction, 
+stability, or fewer job market options for older employees**.
+
+**Employees over 55 may be close to retirement, making them less likely to seek new roles and more likely to stay for benefits like retirement plans**.
+
+
+* **GENDER TRENDS IN ATTRITION**
+
+**Males have a higher attrition rate in every age group, with the largest discrepancy in the 25-34 range. This might indicate a gendered aspect of job 
+movement or external factors affecting male employees’ career choices**.
+
+**Females have relatively stable attrition rates across age groups, though they peak in the 25-34 group as well**.
+
+
+
+
+## RECOMMENDATIONS BASED ON THE AGE GROUP ATTRITION 
+
+* ** Targeted Retention Efforts for 25-34 Age Group**:
+
+**Consider creating development programs specifically for employees in this age range, such as mentorship, leadership training, or skills development 
+initiatives. These can help meet their growth and career progression needs**.
+
+**Introduce flexible benefits, such as remote work or additional time off, which might appeal to younger employees**.
+
+* **FOCUS ON WORK_LIFE BALANCE INITIATIVES**  
+
+**Work-life balance is often a key factor for attrition among younger employees. Enhancing policies that promote work-life balance, 
+such as flexible hours or hybrid work models, could help retain talent, especially females in the 25-34 age group**
+
+
+* **GENDER-specific insights**
+  
+**Analyze exit interviews (if available) to uncover specific reasons for male attrition, particularly in the 25-34 age range. 
+These insights can help tailor retention strategies, whether it’s compensation adjustments, role clarity, or career advancement**.
+
+**For female employees, consider expanding support systems for balancing personal and professional life, as women in younger age 
+groups may face unique challenges related to family or caregiving**.
+
+* **IMPLEMENT ENGAGE SURVEYS**
+
+**Conduct regular employee engagement surveys segmented by age and gender to proactively identify factors leading to attrition. 
+This will allow the organization to address issues before they lead to employee exits**.
+
+* **LEVERAGE DATA FOR PREDICTIVE ATTRITION MODELLING**  
+
+**Use historical attrition data and additional factors (e.g., department, years in position) to create a predictive model. 
+This can provide early warnings for potential high-risk employees, allowing HR to intervene with targeted retention strategies**.
+
+
 
 
 
