@@ -207,14 +207,16 @@ support HR strategies aimed at improving employee retention**.
 ## HR DASHBOARD 
 
 ### HR GENERAL DASHBOARD
- ![image](https://github.com/user-attachments/assets/7e0a49f4-ad8a-4ccd-89e9-7c9504e21988)
+
+![image](https://github.com/user-attachments/assets/3cd59603-57b8-4733-b7fe-25c40f864a7a)
 
 
 ### HR BY JOB ROLE DASHBOARD
 
 * **IMPACT OF ATTRITION ON JOB ROLE (HEALTHCARE)**
    
-![image](https://github.com/user-attachments/assets/aa46404d-b61e-4b7b-834b-ad69d1cd96a4)
+![image](https://github.com/user-attachments/assets/1a227559-9b03-46c9-a335-30545e41eacf)
+
 
 
 * **IMPACT OF ATTRITION ON JOB ROLE (SALES EXCUTIVE)**
