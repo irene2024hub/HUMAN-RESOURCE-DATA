@@ -366,38 +366,43 @@ Laboratory Technicians, and Research Scientists could improve retention by showi
 
 
 
-3. Employee Engagement Initiatives:
+3. **EMPLOYEE ENGAGEMENT INITIATIVES**
 
-Implement regular engagement and feedback sessions, especially for Sales Representatives and Sales Executives, to understand their pain points. Small adjustments based on feedback (like flexible schedules or improved sales incentives) might increase job satisfaction.
-
-
-
-4. Role-Specific Retention Programs:
-
-Consider tailored retention programs. For example, Laboratory Technicians may benefit from skills development and training, while Sales Representatives might need more support through mentorship or a clear incentive structure.
+* **Implement regular engagement and feedback sessions, especially for Sales Representatives and Sales Executives, to understand their pain points. Small adjustments 
+based on feedback (like flexible schedules or improved sales incentives) might increase job satisfaction.**
 
 
 
-5. Incentivize Long-Term Commitment:
+4. **ROLE-SPECIFIC PROGRAMS**
 
-Offering long-term incentives like stock options, retention bonuses, or paid development programs could make employees more inclined to stay. This is especially useful for roles with moderate attrition, like Sales Executives and Research Scientists.
-
-
-
-6. Workload Management and Team Support:
-
-High-pressure roles such as Sales Representatives and Sales Executives might benefit from improved workload management and team support. This could include setting realistic targets, introducing team-building activities, and promoting a supportive culture.
+* **Consider tailored retention programs. For example, Laboratory Technicians may benefit from skills development and training, while Sales 
+Representatives might need more support through mentorship or a clear incentive structure.**
 
 
 
-7. Evaluate and Adjust Compensation:
+5. **INCENTIVIZE LONG=TERM COMMITMENT** I
 
-Competitive pay adjustments for roles with high attrition (like Sales Representatives and Laboratory Technicians) may prevent talent loss. Conducting regular market salary reviews could ensure the company remains competitive.
+* **Offering long-term incentives like stock options, retention bonuses, or paid development programs could make employees more inclined to stay.
+This is especially useful for roles with moderate attrition, like Sales Executives and Research Scientists.**
 
 
 
+6. **WORKLOAD MANAGEMENT AND TEAM SUPPORT** 
 
-By addressing the specific needs of each job role, these strategies can help balance the overall attrition rate and promote long-term employee satisfaction.
+High-pressure roles such as Sales Representatives and Sales Executives might benefit from improved workload management and team support.
+This could include setting realistic targets, introducing team-building activities, and promoting a supportive culture.
+
+
+
+7. **EVALUATE AND ADJUST COMPENSATION**
+
+* **Competitive pay adjustments for roles with high attrition (like Sales Representatives and Laboratory Technicians) may prevent talent loss. 
+Conducting regular market salary reviews could ensure the company remains competitive.**
+
+
+
+* **By addressing the specific needs of each job role, these strategies can help balance the overall attrition rate and promote 
+long-term employee satisfaction**.
 
 ## INSIGHT BASED ON THE ATTRITION CF AGE BAND BY GENDER
 
