@@ -304,10 +304,100 @@ continuity. High turnover may lead to increased workloads for remaining staff, w
 
 
 
-4. ** ROOT CAUSES OF ATTRITION**R
+4. **ROOT CAUSES OF ATTRITION**
 
 **It is essential to investigate the reasons behind the 237 departures. Factors may include job satisfaction, work-life balance, 
 career advancement opportunities, compensation, and workplace culture.**
+
+
+## INSIGHT AND RECOMMENDATIONS BASED ON ATTRTION BY JOB ROLES
+
+
+* **Attrition rates across job roles vary significantly, pointing to different retention challenges and employee experiences.
+   Here’s a breakdown:**
+
+Insights:
+
+1. **HIGH ATTRITION ROLES** 
+
+* **Sales Representatives have the highest attrition rate at 40%. This suggests significant turnover, which could be due to high job demands, 
+performance pressure, or lack of support.**
+
+* **Laboratory Technicians follow with a 24% attrition rate, which may indicate job dissatisfaction, career progression issues, or
+  skill mismatch challenges**.
+
+
+2. **MODERATE ATTRITION ROLES**:
+
+* **Sales Executives and Research Scientists have attrition rates of 17% and 16%, respectively. These rates, though lower than the highest
+  groups, still indicate some retention issues.**
+
+**The attrition rates here may be tied to competitive pressures, career stagnation, or better opportunities outside the company**.
+
+
+
+3.  **LOW ATTRITION ROLES** 
+
+* **Research Directors and Managers have the lowest attrition rates (3% and 5%, respectively). Employees in these roles likely experience
+better career satisfaction, stability, or benefits that reduce turnover**.
+
+
+
+4. **JOB ROLES WITH AVERAGE  ATTRITION**
+     
+**Healthcare and Manufacturing roles have an attrition rate of 7%, which is moderate and may be driven by a balance between job stability 
+and external job opportunities.**
+
+
+
+## RECOMMENDATONS ON ATTRITION BY JOB ROLES 
+
+1. **TARGETED RETENTION BY JOB ROLES**
+
+* **Sales Representatives and Laboratory Technicians need focused retention strategies. Consider conducting exit interviews to understand the main reasons
+for turnover. Addressing pay, workload, and career development opportunities could reduce attrition in these groups**.
+
+
+
+2. **SUPPORT CAREER PROGRESSION**
+
+* **Roles with higher turnover often face career stagnation. Introducing structured career growth paths for Sales Executives,
+Laboratory Technicians, and Research Scientists could improve retention by showing a clear roadmap for advancement.**
+
+
+
+3. Employee Engagement Initiatives:
+
+Implement regular engagement and feedback sessions, especially for Sales Representatives and Sales Executives, to understand their pain points. Small adjustments based on feedback (like flexible schedules or improved sales incentives) might increase job satisfaction.
+
+
+
+4. Role-Specific Retention Programs:
+
+Consider tailored retention programs. For example, Laboratory Technicians may benefit from skills development and training, while Sales Representatives might need more support through mentorship or a clear incentive structure.
+
+
+
+5. Incentivize Long-Term Commitment:
+
+Offering long-term incentives like stock options, retention bonuses, or paid development programs could make employees more inclined to stay. This is especially useful for roles with moderate attrition, like Sales Executives and Research Scientists.
+
+
+
+6. Workload Management and Team Support:
+
+High-pressure roles such as Sales Representatives and Sales Executives might benefit from improved workload management and team support. This could include setting realistic targets, introducing team-building activities, and promoting a supportive culture.
+
+
+
+7. Evaluate and Adjust Compensation:
+
+Competitive pay adjustments for roles with high attrition (like Sales Representatives and Laboratory Technicians) may prevent talent loss. Conducting regular market salary reviews could ensure the company remains competitive.
+
+
+
+
+By addressing the specific needs of each job role, these strategies can help balance the overall attrition rate and promote long-term employee satisfaction.
 
 ## INSIGHT BASED ON THE ATTRITION CF AGE BAND BY GENDER
 
