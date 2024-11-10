@@ -206,10 +206,43 @@ support HR strategies aimed at improving employee retention**.
 
 ## HR DASHBOARD 
 
-![image](https://github.com/user-attachments/assets/7e0a49f4-ad8a-4ccd-89e9-7c9504e21988)
+### HR GENERAL DASHBOARD
+ ![image](https://github.com/user-attachments/assets/7e0a49f4-ad8a-4ccd-89e9-7c9504e21988)
+
+
+### HR BY JOB ROLE DASHBOARD
+
+* **IMPACT OF ATTRITION ON JOB ROLE (HEALTHCARE)**
+   
+![image](https://github.com/user-attachments/assets/aa46404d-b61e-4b7b-834b-ad69d1cd96a4)
+
+
+* **IMPACT OF ATTRITION ON JOB ROLE (SALES EXCUTIVE)**
+  
+ ![image](https://github.com/user-attachments/assets/7efbcae4-d1ac-4a2e-8a85-a1912d5bea63)
+
+
+* **IMPACT OF ATTRITION ON JOB ROLE (LABORATORY TECHNICIANS)**
+
+  ![image](https://github.com/user-attachments/assets/164853c0-5a0e-4c21-b575-4029c214d295)
+
+  
+* **IMPACT OF ATTRITION ON JOB ROLE (RESEARCH DIRECTORS)**
+* 
+![image](https://github.com/user-attachments/assets/1bfa0c4e-45e1-40bf-9d30-54198f6b5c63)
+
+
+* **IMPACT OF ATTRITION ON JOB ROLE (MANAGER)**
+
+ ![image](https://github.com/user-attachments/assets/baee4c1d-601d-446d-96a4-b3274989f0ff)
 
 
 
+ * **IMPACT OF ATTRITION ON JOB ROLE (SALES REPRESENTIVES)**
+ 
+  ![image](https://github.com/user-attachments/assets/923278ab-4431-42de-88c9-c895680b943b)
+
+  
 
 **In analyzing the HR data for the Incubator Hub, we can derive insights and recommendations based on the attrition rate 
 and other related metrics. Here’s a structured breakdown of the insights and recommendations from the provided data:**
@@ -286,15 +319,7 @@ movement or external factors affecting male employees’ career choices**.
 
 **Females have relatively stable attrition rates across age groups, though they peak in the 25-34 group as well**.
 
-## JOB SATISFACTION RATING BY JOB ROLES OVERVIEW
 
-![image](https://github.com/user-attachments/assets/67a208cd-99fe-4f73-b098-7d69a1944c14)
-
-
-![image](https://github.com/user-attachments/assets/65b5ce0d-7e21-4354-b30b-89506e27de80)
-
-
-![image](https://github.com/user-attachments/assets/d9584ac0-bd32-4857-abbe-de3af50b25eb)
 
 
 
@@ -333,6 +358,15 @@ This will allow the organization to address issues before they lead to employee 
 This can provide early warnings for potential high-risk employees, allowing HR to intervene with targeted retention strategies**.
 
 
+## JOB SATISFACTION RATING BY JOB ROLES OVERVIEW
+
+![image](https://github.com/user-attachments/assets/67a208cd-99fe-4f73-b098-7d69a1944c14)
+
+
+![image](https://github.com/user-attachments/assets/65b5ce0d-7e21-4354-b30b-89506e27de80)
+
+
+![image](https://github.com/user-attachments/assets/d9584ac0-bd32-4857-abbe-de3af50b25eb)
 
 
 
