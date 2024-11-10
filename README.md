@@ -219,28 +219,46 @@ support HR strategies aimed at improving employee retention**.
 
 * **IMPACT OF ATTRITION ON JOB ROLE (SALES EXCUTIVE)**
   
- ![image](https://github.com/user-attachments/assets/7efbcae4-d1ac-4a2e-8a85-a1912d5bea63)
+
+![image](https://github.com/user-attachments/assets/6d367425-9063-4980-8dad-6b8a8a7b7040)
 
 
 * **IMPACT OF ATTRITION ON JOB ROLE (LABORATORY TECHNICIANS)**
 
-  ![image](https://github.com/user-attachments/assets/164853c0-5a0e-4c21-b575-4029c214d295)
+![image](https://github.com/user-attachments/assets/3a1b018c-f9f6-4894-8074-96fce9705625)
+
 
   
-* **IMPACT OF ATTRITION ON JOB ROLE (RESEARCH DIRECTORS)**
-* 
-![image](https://github.com/user-attachments/assets/1bfa0c4e-45e1-40bf-9d30-54198f6b5c63)
+* **IMPACT OF ATTRITION ON JOB ROLE (RESEARCH SCIENTIST)**
+  
+![image](https://github.com/user-attachments/assets/d1c0ba4a-d698-4975-97a2-d22c8b5c4519)
+
+
+* **IMPACT OF ATTRITION ON JOB ROLE (RESEARCH DIRECTOR)**
+
+![image](https://github.com/user-attachments/assets/d63e46f7-e08d-473b-8dba-635fc0f1ab3e)
 
 
 * **IMPACT OF ATTRITION ON JOB ROLE (MANAGER)**
+  
+![image](https://github.com/user-attachments/assets/bd3fb569-07b3-4321-b826-f28d72c9c099)
 
- ![image](https://github.com/user-attachments/assets/baee4c1d-601d-446d-96a4-b3274989f0ff)
+
+* **IMPACT OF ATTRITION ON JOB ROLE (HUMAN RESOURCES)**
+  
+![image](https://github.com/user-attachments/assets/33274388-b360-4672-96eb-b53956971729)
+
+
+* **IMPACT OF ATTRITION ON JOB ROLE (MANUFACTURING)**
+* 
+![image](https://github.com/user-attachments/assets/0e4ea503-6217-45de-81ca-21f6aeea2520)
 
 
 
  * **IMPACT OF ATTRITION ON JOB ROLE (SALES REPRESENTIVES)**
  
-  ![image](https://github.com/user-attachments/assets/923278ab-4431-42de-88c9-c895680b943b)
+  
+![image](https://github.com/user-attachments/assets/f9b58791-99bf-4c58-9bcc-fbfa7a91eea9)
 
   
 
