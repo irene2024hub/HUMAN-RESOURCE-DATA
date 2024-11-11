@@ -591,6 +591,9 @@ This can provide early warnings for potential high-risk employees, allowing HR t
 
 ![image](https://github.com/user-attachments/assets/77a29052-51b2-4ee9-ae58-763b954d69f6)
 
+![image](https://github.com/user-attachments/assets/5b5295ab-2dc4-44aa-a26e-4f05b8b138e7)
+
+
 ## RECOMMENDATIONS
 
 1. **Conduct Exit Interviews:**
