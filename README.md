@@ -509,7 +509,8 @@ long-term employee satisfaction**.
 
 ## INSIGHT BASED ON THE ATTRITION CF AGE BAND BY GENDER
 
-![image](https://github.com/user-attachments/assets/7d5c1958-b506-4ba2-a74d-8d7505b2fa2d
+![image](https://github.com/user-attachments/assets/616889e6-fcfc-4a73-8c1d-7096ea407276)
+
 
 For analyzing attrition by age and gender, I'll break down some insights and recommendations based on the data provided in the above table;
 
@@ -536,7 +537,6 @@ stability, or fewer job market options for older employees**.
 movement or external factors affecting male employees’ career choices**.
 
 **Females have relatively stable attrition rates across age groups, though they peak in the 25-34 group as well**.
-
 
 
 
@@ -578,17 +578,18 @@ This can provide early warnings for potential high-risk employees, allowing HR t
 
 ## JOB SATISFACTION RATING BY JOB ROLES OVERVIEW
 
-![image](https://github.com/user-attachments/assets/67a208cd-99fe-4f73-b098-7d69a1944c14)
 
+![image](https://github.com/user-attachments/assets/2006614e-1376-4974-8f3c-516a37807ff2)
 
-![image](https://github.com/user-attachments/assets/65b5ce0d-7e21-4354-b30b-89506e27de80)
+![image](https://github.com/user-attachments/assets/d82e5b5f-d75d-4e64-bdc6-4cf538e9ef9d)
 
+![image](https://github.com/user-attachments/assets/7f9a72ec-73dd-49ca-955d-264fdb209269)
 
-![image](https://github.com/user-attachments/assets/d9584ac0-bd32-4857-abbe-de3af50b25eb)
+![image](https://github.com/user-attachments/assets/28a9a5aa-83b2-4547-bbc6-9057d3e98ecb)
 
+![image](https://github.com/user-attachments/assets/f48a3462-ab5b-4399-93d7-0eebdc3a0734)
 
-
-
+![image](https://github.com/user-attachments/assets/77a29052-51b2-4ee9-ae58-763b954d69f6)
 
 ## RECOMMENDATIONS
 
