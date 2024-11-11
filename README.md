@@ -203,6 +203,7 @@ Purpose: Assesses the influence of education level on attrition.
 factors driving attrition. It enables the development of predictive models to forecast attrition and provides insights to 
 support HR strategies aimed at improving employee retention**.
 
+## DAX FUNCTION
 
 ## HR DASHBOARD 
 
@@ -350,6 +351,64 @@ and external job opportunities.**
 
 
 
+## IMPACT OF ATTRITION ON EMPLOYEE MONTHLY  SALARY AND MONTHLY RATE
+
+![image](https://github.com/user-attachments/assets/15bb04e9-9571-430d-8b76-629d0a3228f8)
+
+* ** Here are the  analysis and recommendations regarding the monthly income, monthly rate, and 
+education field as they relate to HR and other fields;**
+
+1. **INSIGHT ON  MONTHLY INCOME AND MONTHLY RATE BY EDUCATION FIELD**
+
+
+**Life Sciences and Medical fields command the highest monthly incomes and rates, reflecting their demand and specialized skills needed.**
+**Life sciences have an average monthly salary of #3.9M and a monthly rate of #8.8M, followed closely by the medical field**.
+
+**Marketing and Technical fields have significantly lower figures, with monthly incomes of #1.2M and #0.8M, respectively, suggesting they 
+may be less prioritized or require less specialization in this context**.
+
+**Human Resources ranks the lowest in both income (#0.2M) and rate (#0.4M), which could imply that HR roles are undervalued,
+potentially affecting morale and turnover in HR employees.**
+
+
+~~ **Recommendation: Since HR has lower pay relative to other fields, companies could evaluate if this aligns with their goals for 
+employee engagement and retention, as well as their overall organizational culture. Improving compensation for HR could have 
+positive effects, as HR plays a critical role in employee satisfaction and operational support**.
+
+2. **ANALYSIS OF MONTHLY INCOME BY JOB ROLES**
+
+**Sales Executives, Managers, and Directors (Research and Manufacturing) have higher monthly incomes, aligning with their seniority and decision-making roles.**
+
+**Health Representatives and Laboratory Technicians have mid-range incomes, which likely reflects their specialized but non-management roles.**
+
+**Human Resources and Sales Representatives are at the lower end, which might make these roles less attractive. Research Scientists also 
+have a relatively low income, despite their specialized knowledge.**
+
+
+~~ **Recommendation: Re-evaluate HR and Research Scientist roles for potential income adjustments. Despite low income, these roles can be vital to 
+company operations. Properly compensating HR could improve hiring processes, organizational culture, and employee satisfaction, while better
+compensation for Research Scientists might help in retaining innovative talent**.
+
+3. **IMPACT OF ATTENTION ON THE HR MONTHLY INCOME AND RATE**
+
+**If the goal is to increase attention toward HR’s strategic value, consider adjusting monthly incomes and rates for HR roles. 
+HR employees play a central role in managing recruitment, talent retention, employee well-being, and company culture. 
+When HR departments are underpaid relative to other fields, it can impact their ability to perform these functions effectively. 
+An investment in competitive pay for HR roles could yield improvements in organizational effectiveness and employee satisfaction across all departments.**
+
+~~ **Recommendation: To increase the impact of HR, consider**
+
+* **Benchmarking HR salaries with industry standards to ensure competitiveness**.
+
+* **Enhancing HR involvement in strategic decisions to align with higher-paid roles, which can help justify improved compensation**.
+
+* **Exploring performance-based incentives for HR staff to boost engagement and align HR efforts more closely with company goals**.
+
+
+**This approach should balance attention across roles, ensuring that HR staff feel equally valued as other employees, potentially 
+resulting in a more cohesive organizational structure**.
+
+
 ## RECOMMENDATONS ON ATTRITION BY JOB ROLES 
 
 1. **TARGETED RETENTION BY JOB ROLES**
@@ -486,6 +545,7 @@ This can provide early warnings for potential high-risk employees, allowing HR t
 
 
 
+
 ## RECOMMENDATIONS
 
 1. **Conduct Exit Interviews:**
@@ -496,13 +556,13 @@ common themes or issues.**
 
 
 2. **Enhance Employee Engagement:**
-3. 
+ 
 **Develop programs aimed at improving employee engagement and satisfaction. This may include regular feedback mechanisms, team-building
 activities, and recognition programs that celebrate achievements**.
 
 
 
-5. Career Development Opportunities:
+3. Career Development Opportunities:
 
 Offer clear career progression paths and professional development opportunities. Consider mentorship programs or training sessions to help 
 employees grow within the company.
@@ -535,7 +595,8 @@ Implement regular employee satisfaction surveys to monitor morale and gauge the 
 
 
 
-## CONCLUSION ##
+## CONCLUSION 
 
-Addressing attrition is crucial for maintaining a stable workforce and ensuring the long-term success of the HR Incubator Hub.
-By understanding the underlying reasons for employee departures and implementing targeted strategies to enhance job satisfaction and retention, the organization can reduce attrition rates and build a more committed and productive team.
+**Addressing attrition is crucial for maintaining a stable workforce and ensuring the long-term success of the HR Incubator Hub.
+By understanding the underlying reasons for employee departures and implementing targeted strategies to enhance job satisfaction and retention, 
+the organization can reduce attrition rates and build a more committed and productive team.**
