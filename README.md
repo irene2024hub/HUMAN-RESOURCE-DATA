@@ -205,8 +205,16 @@ factors driving attrition. It enables the development of predictive models to fo
 support HR strategies aimed at improving employee retention**.
 
 
-TOOLS USED
+## TOOLS USED
 
+* **Microsoft Excel: used for data cleaning and report summarization** 
+   
+*  **Microsoft Exce**l [Download here](https://wwww.Microsoft.com).
+    
+ *  **POWER PI DESKTOP  [Download here](https://wwww.Microsoft.com)
+
+
+*  **POWER BI  DESKTOP**
 ## DAX FUNCTION
 **MEASURES AND CALCULATED COLUMNS WERE INTRODUCTED TO ACHIEVED DESIRED GOALS**
 
