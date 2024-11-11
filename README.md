@@ -84,15 +84,16 @@ to mitigate high turnover.**
 
 * **Enhance Employee Engagement: **Develop initiatives that improve job satisfaction and employee loyalty.**
 
-* C**ost Savings: Lower recruitment, hiring, and training costs by retaining more employees.**
+* **Cost Savings: Lower recruitment, hiring, and training costs by retaining more employees.**
 
- Strategic Planning: **Use attrition forecasts to plan workforce needs and ensure business continuity.**
+* **Strategic Planning: Use attrition forecasts to plan workforce needs and ensure business continuity.**
 
 
 **This data-driven approach to understanding and managing employee attrition will help the company retain key 
 talent, foster a positive work environment, and support long-term growth.**
 
 ## DATA DESCRIPTION
+
 **Data Description for Human Resources Details**
 
 **This dataset contains employee data that is essential for analyzing attrition trends within the company. 
@@ -156,7 +157,7 @@ and compensation, allowing us to explore the factors contributing to attrition.*
 
 8. **Job Role:****
 
-**Description: Specific job titles held by employees88 **
+**Description: Specific job titles held by employees**
 
 9. **Marital Status:**
 
@@ -170,11 +171,11 @@ and compensation, allowing us to explore the factors contributing to attrition.*
 
 **Purpose: Examines if overtime contributes to attrition.**
 
-11.** Educational Qualification:**
+11.**Educational Qualification:**
 
 **Description: The highest level of education achieved by the employee (e.g., HND, Bachelor’s, Master’s).**
 
-Purpose: Assesses the influence of education level on attrition.
+**Purpose: Assesses the influence of education level on attrition.**
 
 12. **Hourly Rate:**
 
@@ -203,7 +204,39 @@ Purpose: Assesses the influence of education level on attrition.
 factors driving attrition. It enables the development of predictive models to forecast attrition and provides insights to 
 support HR strategies aimed at improving employee retention**.
 
+
+TOOLS USED
+
 ## DAX FUNCTION
+**MEASURES AND CALCULATED COLUMNS WERE INTRODUCTED TO ACHIEVED DESIRED GOALS**
+
+
+1. **CALCULATED COLUMNS**
+
+**Calculated columns are new data columns that you create in a table using DAX expressions. These columns are computed row-by-row for each 
+entry in a table, and the results are stored as part of the table’s data**.
+
+**LOGICAL FUNCTION: was used to calcualate Job satisying rating and total attrition counT
+E.G IF ATTRITION IS YES=0, ELSE = 1**
+
+2. **MEASURES**
+
+**Measures, on the other hand, are dynamic calculations that are performed on data in the context of the visualizations, such as tables, charts,
+and graphs. Measures are recalculated on the fly based on the filters applied in the report**.
+
+* **Atrrition Rate = sum('HR data'[Attrition Count])/sum('HR data'[Employee Count])**
+
+* **Average Age of employee = Average('HR data'[Age])**
+ 
+
+* **AVERAGE TOTAL EMPLOYEE = Average('HR data'[Age])**
+
+**Measures don’t add physical data to the table like calculated columns do; they produce a single value based on an aggregation 
+(like sum, average, or count) or a more complex calculation**.
+
+![image](https://github.com/user-attachments/assets/ad547052-84f3-476c-a3d6-7b3b0ac9862a)
+
+![image](https://github.com/user-attachments/assets/df25fee7-9400-43e1-830e-af0f078f0c30)
 
 ## HR DASHBOARD 
 
