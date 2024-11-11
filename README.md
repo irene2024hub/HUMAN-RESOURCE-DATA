@@ -625,13 +625,15 @@ Promote a healthy work-life balance through flexible work arrangements, mental h
 
 6. **Diversity and Inclusion Initiatives:**
 
-Foster a diverse and inclusive workplace culture to enhance employee satisfaction and retention. This can be achieved through diversity training and initiatives that celebrate varied backgrounds and perspectives.
+**Foster a diverse and inclusive workplace culture to enhance employee satisfaction and retention. This can be achieved through diversity
+training and initiatives that celebrate varied backgrounds and perspectives.**
 
 
 
 7. **Regular Employee Surveys:**
 
-Implement regular employee satisfaction surveys to monitor morale and gauge the effectiveness of initiatives aimed at reducing attrition. Use this data to make informed decisions about HR policies and practices.
+**Implement regular employee satisfaction surveys to monitor morale and gauge the effectiveness of initiatives aimed at reducing attrition.
+Use this data to make informed decisions about HR policies and practices.**
 
 
 
