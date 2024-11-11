@@ -250,59 +250,62 @@ and graphs. Measures are recalculated on the fly based on the filters applied in
 
 ### HR GENERAL DASHBOARD
 
-![image](https://github.com/user-attachments/assets/3cd59603-57b8-4733-b7fe-25c40f864a7a)
+![image](https://github.com/user-attachments/assets/62e1664e-71cf-4473-a638-58598ad1761a)
+
 
 
 ### HR BY JOB ROLE DASHBOARD
 
 * **IMPACT OF ATTRITION ON JOB ROLE (HEALTHCARE)**
    
-![image](https://github.com/user-attachments/assets/1a227559-9b03-46c9-a335-30545e41eacf)
+
+![image](https://github.com/user-attachments/assets/d3a13b82-d38f-49c3-b1f6-b63a6af82833)
 
 
 
 * **IMPACT OF ATTRITION ON JOB ROLE (SALES EXCUTIVE)**
   
-
-![image](https://github.com/user-attachments/assets/6d367425-9063-4980-8dad-6b8a8a7b7040)
+![image](https://github.com/user-attachments/assets/1e707ff0-cbcd-4987-b59c-8e48f6aadd54)
 
 
 * **IMPACT OF ATTRITION ON JOB ROLE (LABORATORY TECHNICIANS)**
 
-![image](https://github.com/user-attachments/assets/3a1b018c-f9f6-4894-8074-96fce9705625)
+![image](https://github.com/user-attachments/assets/74794ffc-37c9-427f-88b8-b429d0f6ca02)
 
 
-  
+
 * **IMPACT OF ATTRITION ON JOB ROLE (RESEARCH SCIENTIST)**
   
-![image](https://github.com/user-attachments/assets/d1c0ba4a-d698-4975-97a2-d22c8b5c4519)
+![image](https://github.com/user-attachments/assets/e82ef811-fb8c-4878-956e-8a3756b115bf)
 
 
 * **IMPACT OF ATTRITION ON JOB ROLE (RESEARCH DIRECTOR)**
 
-![image](https://github.com/user-attachments/assets/d63e46f7-e08d-473b-8dba-635fc0f1ab3e)
+![image](https://github.com/user-attachments/assets/c50e151a-d122-4111-b5ee-c2e071646dd3)
+
 
 
 * **IMPACT OF ATTRITION ON JOB ROLE (MANAGER)**
   
-![image](https://github.com/user-attachments/assets/bd3fb569-07b3-4321-b826-f28d72c9c099)
+![image](https://github.com/user-attachments/assets/8c2c18bf-907c-43ad-ac6f-127965baebfe)
 
 
 * **IMPACT OF ATTRITION ON JOB ROLE (HUMAN RESOURCES)**
-  
-![image](https://github.com/user-attachments/assets/33274388-b360-4672-96eb-b53956971729)
+
+![image](https://github.com/user-attachments/assets/fdeb892f-d537-4475-9c06-da7ffdcf2ff2)
 
 
 * **IMPACT OF ATTRITION ON JOB ROLE (MANUFACTURING)**
-* 
-![image](https://github.com/user-attachments/assets/0e4ea503-6217-45de-81ca-21f6aeea2520)
+
+![image](https://github.com/user-attachments/assets/04e12142-e8a4-4e2e-b59e-1d43ee3575ca)
 
 
 
  * **IMPACT OF ATTRITION ON JOB ROLE (SALES REPRESENTIVES)**
  
-  
-![image](https://github.com/user-attachments/assets/f9b58791-99bf-4c58-9bcc-fbfa7a91eea9)
+  ![image](https://github.com/user-attachments/assets/d9cfffe2-fce5-44ba-93ea-88a637164252)
+
+
 
   
 
@@ -393,8 +396,8 @@ and external job opportunities.**
 
 
 ## IMPACT OF ATTRITION ON EMPLOYEE MONTHLY  SALARY AND MONTHLY RATE
+![image](https://github.com/user-attachments/assets/e412239d-1d0c-4cca-a5b7-94b4451d79e4)
 
-![image](https://github.com/user-attachments/assets/15bb04e9-9571-430d-8b76-629d0a3228f8)
 
 * ** Here are the  analysis and recommendations regarding the monthly income, monthly rate, and 
 education field as they relate to HR and other fields;**
@@ -506,7 +509,7 @@ long-term employee satisfaction**.
 
 ## INSIGHT BASED ON THE ATTRITION CF AGE BAND BY GENDER
 
-![image](https://github.com/user-attachments/assets/7d5c1958-b506-4ba2-a74d-8d7505b2fa2d)
+![image](https://github.com/user-attachments/assets/7d5c1958-b506-4ba2-a74d-8d7505b2fa2d
 
 For analyzing attrition by age and gender, I'll break down some insights and recommendations based on the data provided in the above table;
 
